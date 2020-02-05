@@ -51,3 +51,7 @@ text-decoration:none;
 nav pseudo-class{
 background-color:#7C1A00;  
 }
+
+#content {
+background-image:trans-bg.gif;
+}
