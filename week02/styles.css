@@ -38,3 +38,10 @@ nav li {
   border-color:#7C1A00;
   background-color:#FFE597;
 }
+
+nav a{
+color:white;
+background-color:#8C9273;
+padding:3px;
+right-padding:60px;
+}
