@@ -11,9 +11,10 @@ body {
 }
 
 header h1{
-   font-size:350%;
+  font-size:350%;
   color:#7C1A00;
   padding:40px;
+  background-image: url("header-image-1.gif");
   padding-left:120px;
 }
 
@@ -53,5 +54,9 @@ background-color:#7C1A00;
 }
 
 #content {
-background-image:trans-bg.gif;
+background-image:url("trans-bg.gif");
+border:1px solid #CCCCCC;
+left-margin:180px;
+padding:10px;
 }
+
